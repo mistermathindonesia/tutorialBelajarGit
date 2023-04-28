@@ -1,2 +1,2 @@
 console.log(`version: 4`);
-console.log("fitur1");
+console.log("fitur4 dari cabang1");
